@@ -14,7 +14,7 @@ namespace tft_trait_tracker
 
             int minCost = 1;
             int maxCost = 5;
-            int maxNumChampions = 7;
+            int maxNumChampions = 5;
             int minTraits = 7;
             var currentChampions = new List<string>();
             var emblemTraits = new List<string>();
